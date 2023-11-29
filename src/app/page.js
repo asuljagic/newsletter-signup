@@ -9,7 +9,7 @@ import Success from './success';
 import { useState } from 'react';
 
 export default function Home() {
-  const [success, setSuccess] = useState(true);
+  const [success, setSuccess] = useState(false);
 
   const validate = values => {
     const errors = {};
