@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p,
+li {
+  @apply text-slate-700;
+}
+
