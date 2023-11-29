@@ -10,8 +10,8 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-##Check the result
-[Solution][https://newsletter-signup-fem-challenge.netlify.app/]
+## Check the result
+[Solution](https://newsletter-signup-fem-challenge.netlify.app/)
 
 ## The challenge
 
